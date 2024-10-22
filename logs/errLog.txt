@@ -1,0 +1,11 @@
+20241012	15:54:10	3fd28f5f-b180-4dd5-93af-e49f1bd75de7	TypeError	fsPromises.readile is not a function
+20241012	15:58:07	68701578-aaf6-4447-80bc-06fae6a8b1b3	TypeError	fsPromises.readile is not a function
+20241013	11:27:12	5dfb04d2-26b2-499b-a13c-c22bcea62f85	Error: Not allowed by CORS
+20241013	11:27:12	ff4ad126-b073-4142-ac6d-fca67cd799af	Error: Not allowed by CORS
+20241013	17:40:26	74bf8b44-b1ce-4180-9a4e-81578de9f9db	TypeError: data.employees is not iterable
+20241019	06:28:46	60c67901-3285-46e5-a64f-68915770eb80	TypeError: Cannot read properties of undefined (reading 'indexOf')
+20241019	06:28:59	48d39810-1d59-486a-b431-0b7836124c86	TypeError: Cannot read properties of undefined (reading 'indexOf')
+20241019	15:34:54	5ed2e349-6bef-4032-a78f-8595feb10e4f	ReferenceError: origin is not defined
+20241019	15:34:55	69f42629-2f27-415a-a5d4-1e4f47d7ae1e	ReferenceError: origin is not defined
+20241019	15:40:47	8a9036f4-c0c9-4c70-83b5-8dada20828a1	ReferenceError: path is not defined
+20241020	22:51:34	9aeceb18-0189-4086-b95a-3781314dd8f5	SyntaxError: Expected ',' or '}' after property value in JSON at position 45
